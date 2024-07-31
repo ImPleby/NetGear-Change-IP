@@ -1,6 +1,6 @@
 # NetGear Change IP
-1. Open this site: https://www.ipchicken.com/ and take note of your IP
-2. Open a Web Browser
+1. Open a Web Browser
+2. Open this site: https://www.ipchicken.com/ and take note of your IP
 3. Type in your default gateway into the URL (192.168.1.1)
 4. Goto Settings > Internet Setup > Check "Use This MAC Address:"
 5. Change the MAC Address (Only numbers/letters from 0-9 & A-F is only allowed)
